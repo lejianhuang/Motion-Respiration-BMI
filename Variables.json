@@ -1,0 +1,262 @@
+{
+    "Subject": {
+        "Description": "anonymized paricipant' ID"
+    },
+    "Age": {
+        "Description": "age of the participant",
+	"Units": "years"
+    },
+    "Sex": {
+        "Description": "sex of the participant as reported by the participant",
+        "Levels": {
+            "0": "male",
+            "1": "female"
+        }
+    },
+    "PainDur": {
+        "Description": "back pain suffering time as reported by the participant",
+        "Units": "weeks"
+    },
+    "NRS1": {
+        "Description": "numerical rating scale prior to the first scan as reported by the participant",
+        "Levels": {
+            "0": "no pain",
+            "100": "worst possible pain as imagined"
+        }
+    },
+    "NRS2": {
+        "Description": "numerical rating scale prior to the second scan as reported by the participant",
+        "Levels": {
+            "0": "no pain",
+            "100": "worst possible pain as imagined"
+        }
+    },
+    "Interval": {
+        "Description": "back pain suffering time as reported by the participant",
+        "Units": "weeks"
+    },
+    "mFD_s1r1": {
+        "Description": "mean frame-wise displacement of each rs-fMRI data set at Scan1 Run1",
+        "Units": "mm"
+    },
+    "mR1_s1r1": {
+        "Description": "mean frame-wise displacement of dimension of pitch at Scan1 Run1",
+        "Units": "mm"
+    },
+    "mR2_s1r1": {
+        "Description": "mean frame-wise displacement of dimension of yaw at Scan1 Run1",
+        "Units": "mm"
+    },
+    "mR3_s1r1": {
+        "Description": "mean frame-wise displacement of dimension of roll at Scan1 Run1",
+        "Units": "mm"
+    },
+    "mX_s1r1": {
+        "Description": "mean frame-wise displacement of dimension of x at Scan1 Run1",
+        "Units": "mm"
+    },
+    "mY_s1r1": {
+        "Description": "mean frame-wise displacement of dimension of y at Scan1 Run1",
+        "Units": "mm"
+    },
+    "mZ_s1r1": {
+        "Description": "mean frame-wise displacement of dimension of z at Scan1 Run1",
+        "Units": "mm"
+    },
+    "mFD_s1r1": {
+        "Description": "mean frame-wise displacement of each rs-fMRI data set at Scan1 Run1",
+        "Units": "mm"
+    },
+    "mR1_s1r2": {
+        "Description": "mean frame-wise displacement of dimension of pitch at Scan1 Run2",
+        "Units": "mm"
+    },
+    "mR2_s1r2": {
+        "Description": "mean frame-wise displacement of dimension of yaw at Scan1 Run2",
+        "Units": "mm"
+    },
+    "mR3_s1r2": {
+        "Description": "mean frame-wise displacement of dimension of roll at Scan1 Run2",
+        "Units": "mm"
+    },
+    "mX_s1r2": {
+        "Description": "mean frame-wise displacement of dimension of x at Scan1 Run2",
+        "Units": "mm"
+    },
+    "mY_s1r2": {
+        "Description": "mean frame-wise displacement of dimension of y at Scan1 Run2",
+        "Units": "mm"
+    },
+    "mZ_s1r2": {
+        "Description": "mean frame-wise displacement of dimension of z at Scan1 Run2",
+        "Units": "mm"
+    },
+    "mFD_s2r1": {
+        "Description": "mean frame-wise displacement of each rs-fMRI data set at Scan2 Run1",
+        "Units": "mm"
+    },
+    "mR1_s2r1": {
+        "Description": "mean frame-wise displacement of dimension of pitch at Scan2 Run1",
+        "Units": "mm"
+    },
+    "mR2_s2r1": {
+        "Description": "mean frame-wise displacement of dimension of yaw at Scan2 Run1",
+        "Units": "mm"
+    },
+    "mR3_s2r1": {
+        "Description": "mean frame-wise displacement of dimension of roll at Scan2 Run1",
+        "Units": "mm"
+    },
+    "mX_s2r1": {
+        "Description": "mean frame-wise displacement of dimension of x at Scan2 Run1",
+        "Units": "mm"
+    },
+    "mY_s2r1": {
+        "Description": "mean frame-wise displacement of dimension of y at Scan2 Run1",
+        "Units": "mm"
+    },
+    "mZ_s2r1": {
+        "Description": "mean frame-wise displacement of dimension of z at Scan2 Run1",
+        "Units": "mm"
+    },
+    "mFD_s2r2": {
+        "Description": "mean frame-wise displacement of each rs-fMRI data set at Scan2 Run2",
+        "Units": "mm"
+    },
+    "mR1_s2r2": {
+        "Description": "mean frame-wise displacement of dimension of pitch at Scan2 Run2",
+        "Units": "mm"
+    },
+    "mR2_s2r2": {
+        "Description": "mean frame-wise displacement of dimension of yaw at Scan2 Run2",
+        "Units": "mm"
+    },
+    "mR3_s2r2": {
+        "Description": "mean frame-wise displacement of dimension of roll at Scan2 Run2",
+        "Units": "mm"
+    },
+    "mX_s2r2": {
+        "Description": "mean frame-wise displacement of dimension of x at Scan2 Run2",
+        "Units": "mm"
+    },
+    "mY_s2r2": {
+        "Description": "mean frame-wise displacement of dimension of y at Scan2 Run2",
+        "Units": "mm"
+    },
+    "mZ_s2r2": {
+        "Description": "mean frame-wise displacement of dimension of z at Scan2 Run2",
+        "Units": "mm"
+    },
+    "R_mc_RESP_R1_s1r1" {
+        "Description": "absolute value of corr. coef. b/t dRESP and dMC of dimension of pitch at Scan1 Run1",
+        "Units": "Fisher z-transformed of corr. coef."
+    },
+    "R_mc_RESP_R2_s1r1" {
+        "Description": "absolute value of corr. coef. b/t dRESP and dMC of dimension of yaw at Scan1 Run1",
+        "Units": "Fisher z-transformed of corr. coef."
+    },
+    "R_mc_RESP_R3_s1r1" {
+        "Description": "absolute value of corr. coef. b/t dRESP and dMC of dimension of roll at Scan1 Run1",
+        "Units": "Fisher z-transformed of corr. coef."
+    },
+    "R_mc_RESP_X_s1r1" {
+        "Description": "absolute value of corr. coef. b/t dRESP and dMC of dimension of x at Scan1 Run1",
+        "Units": "Fisher z-transformed of corr. coef."
+    },
+    "R_mc_RESP_Y_s1r1" {
+        "Description": "absolute value of corr. coef. b/t dRESP and dMC of dimension of y at Scan1 Run1",
+        "Units": "Fisher z-transformed of corr. coef."
+    },
+    "R_mc_RESP_Z_s1r1" {
+        "Description": "absolute value of corr. coef. b/t dRESP and dMC of dimension of z at Scan1 Run1",
+        "Units": "Fisher z-transformed of corr. coef."
+    },
+    "R_mc_RESP_max_s1r1" {
+        "Description": "the max. of absolute value of corr. coef. b/t dRESP and dMC for the six dimension at Scan1 Run1",
+        "Units": "Fisher z-transformed of corr. coef."
+    },
+    "R_mc_RESP_R1_s1r2" {
+        "Description": "absolute value of corr. coef. b/t dRESP and dMC of dimension of pitch at Scan1 Run2",
+        "Units": "Fisher z-transformed of corr. coef."
+    },
+    "R_mc_RESP_R2_s1r2" {
+        "Description": "absolute value of corr. coef. b/t dRESP and dMC of dimension of yaw at Scan1 Run2",
+        "Units": "Fisher z-transformed of corr. coef."
+    },
+    "R_mc_RESP_R3_s1r2" {
+        "Description": "absolute value of corr. coef. b/t dRESP and dMC of dimension of roll at Scan1 Run2",
+        "Units": "Fisher z-transformed of corr. coef."
+    },
+    "R_mc_RESP_X_s1r2" {
+        "Description": "absolute value of corr. coef. b/t dRESP and dMC of dimension of x at Scan1 Run2",
+        "Units": "Fisher z-transformed of corr. coef."
+    },
+    "R_mc_RESP_Y_s1r2" {
+        "Description": "absolute value of corr. coef. b/t dRESP and dMC of dimension of y at Scan1 Run2",
+        "Units": "Fisher z-transformed of corr. coef."
+    },
+    "R_mc_RESP_Z_s1r2" {
+        "Description": "absolute value of corr. coef. b/t dRESP and dMC of dimension of z at Scan1 Run2",
+        "Units": "Fisher z-transformed of corr. coef."
+    },
+    "R_mc_RESP_max_s1r2" {
+        "Description": "the max. of absolute value of corr. coef. b/t dRESP and dMC for the six dimension at Scan1 Run2",
+        "Units": "Fisher z-transformed of corr. coef."
+    },
+    "R_mc_RESP_R1_s2r1" {
+        "Description": "absolute value of corr. coef. b/t dRESP and dMC of dimension of pitch at Scan2 Run1",
+        "Units": "Fisher z-transformed of corr. coef."
+    },
+    "R_mc_RESP_R2_s2r1" {
+        "Description": "absolute value of corr. coef. b/t dRESP and dMC of dimension of yaw at Scan2 Run1",
+        "Units": "Fisher z-transformed of corr. coef."
+    },
+    "R_mc_RESP_R3_s2r1" {
+        "Description": "absolute value of corr. coef. b/t dRESP and dMC of dimension of roll at Scan2 Run1",
+        "Units": "Fisher z-transformed of corr. coef."
+    },
+    "R_mc_RESP_X_s2r1" {
+        "Description": "absolute value of corr. coef. b/t dRESP and dMC of dimension of x at Scan2 Run1",
+        "Units": "Fisher z-transformed of corr. coef."
+    },
+    "R_mc_RESP_Y_s2r1" {
+        "Description": "absolute value of corr. coef. b/t dRESP and dMC of dimension of y at Scan2 Run1",
+        "Units": "Fisher z-transformed of corr. coef."
+    },
+    "R_mc_RESP_Z_s2r1" {
+        "Description": "absolute value of corr. coef. b/t dRESP and dMC of dimension of z at Scan2 Run1",
+        "Units": "Fisher z-transformed of corr. coef."
+    },
+    "R_mc_RESP_max_s2r1" {
+        "Description": "the max. of absolute value of corr. coef. b/t dRESP and dMC for the six dimension at Scan2 Run1",
+        "Units": "Fisher z-transformed of corr. coef."
+    },
+    "R_mc_RESP_R1_s2r2" {
+        "Description": "absolute value of corr. coef. b/t dRESP and dMC of dimension of pitch at Scan2 Run2",
+        "Units": "Fisher z-transformed of corr. coef."
+    },
+    "R_mc_RESP_R2_s2r2" {
+        "Description": "absolute value of corr. coef. b/t dRESP and dMC of dimension of yaw at Scan2 Run2",
+        "Units": "Fisher z-transformed of corr. coef."
+    },
+    "R_mc_RESP_R3_s2r2" {
+        "Description": "absolute value of corr. coef. b/t dRESP and dMC of dimension of roll at Scan2 Run2",
+        "Units": "Fisher z-transformed of corr. coef."
+    },
+    "R_mc_RESP_X_s2r2" {
+        "Description": "absolute value of corr. coef. b/t dRESP and dMC of dimension of x at Scan2 Run2",
+        "Units": "Fisher z-transformed of corr. coef."
+    },
+    "R_mc_RESP_Y_s2r2" {
+        "Description": "absolute value of corr. coef. b/t dRESP and dMC of dimension of y at Scan2 Run2",
+        "Units": "Fisher z-transformed of corr. coef."
+    },
+    "R_mc_RESP_Z_s2r2" {
+        "Description": "absolute value of corr. coef. b/t dRESP and dMC of dimension of z at Scan2 Run2",
+        "Units": "Fisher z-transformed of corr. coef."
+    },
+    "R_mc_RESP_max_s2r2" {
+        "Description": "the max. of absolute value of corr. coef. b/t dRESP and dMC for the six dimension at Scan2 Run2",
+        "Units": "Fisher z-transformed of corr. coef."
+    }
+}
